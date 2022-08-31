@@ -238,6 +238,7 @@ section {
   max-height: 150px;
   text-align: left;
   align-items: center;
+  padding-top: 10px;
 }
 @media (max-width: 820px) {
   .footer {
